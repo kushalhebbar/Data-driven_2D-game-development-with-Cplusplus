@@ -1,3 +1,0 @@
-To make a movie, go to frames dir:
-
-avconv -r 45 -i khebbar.%4d.bmp khebbar.mp4
