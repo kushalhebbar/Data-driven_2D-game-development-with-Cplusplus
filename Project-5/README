@@ -1,27 +1,15 @@
-Name: Kushal Hebbar
+Project 5 is a complete playable game.
 
-Course: CPSC 6160
+My game reaches a conclusion after 2 levels. I have included the intro sound clip of the movie "Dumbo" to make the gaming experience more involving.
 
-Clemson Email Address: khebbar@g.clemson.edu
+The final game also includes a restart option after the conclusion (successful or otherwise) along with the inclusion of a god mode where the player doesn't die which is triggered with key 'G'.
 
-Project no: #6
+Checked for memory leaks using Valgrind (Results in a leak free framework) and tested on Windows as well as Linux operating system
 
-Project due date: May 2nd 2018
+(Key assignments: F1 ⇒ help (HUD), F4 ⇒ frames, g ⇒ “god” mode, and r ⇒ restart)
 
-Project description: A Playable Game
-
-The easiest part of this project:
-- Adding background music was the easiest part of the project
-- Godmode was easy as well but I couldn't decide what I wanted to do: either reverse collision roles with the enemy or remove the enemy. I decided to reverse the collision.
-- Lights were fairly simple as well, finding out what each attribute in the xml file does to the lights was fun
-
-Problems that I had in completing this project:
-- Got a segmentation fault which took me almost a day to figure out and fix
-- Recording a video was a struggle as there were a lot of components that I wanted to showcase and doing that within 20 seconds was a true struggle and a test of patience.
-
-Project description:
+Final game description:
 Dumbo, the flying elephant is on a mission to collect his beloved fruits. Two things stand in his way, the mean flying Mr. Stork and the hungry vicious piranhas swimming in the ocean. With rotten tomatoes being his only weapon to fight against these evils, he sets on his mission. Dumbo can be controlled using the WASD keys, the spacebar can be used to shoot tomatoes. Level 1 would be to successfully collect all the fruits. Upon completion of level 1 there will be a level 2 which is the 'gem rush' where the mission is to collect all the gems which leads to the completion of the game. R key can be used to restart the game at any point in time, G key can be used to activate God mode where Dumbo gains supernatural abilities to fight the enemies and destroy them upon collision. With the sun setting in the background, the 2 lights play a subtle role in depecting twilight, bringing together the darkness from the right and light from the left.
-Painter's algorithm does not fit with the theme of the game as there is no depth effect that can be incorporated.
 The boat guy in the game is just enjoying a pleasant evening.
 
 References:
@@ -39,3 +27,5 @@ References:
 12. Rotten tomato: Google images (Search result for: Animated rotten tomato PNG)
 13. Music file: Converted audio from a youtube video -
 https://www.youtube.com/watch?v=bM9B3mY3JfA
+
+Google drive link for the result of the final game: https://drive.google.com/open?id=1s_08GqNVRic6F3B9J-MwilIJKCl8ZvfI
