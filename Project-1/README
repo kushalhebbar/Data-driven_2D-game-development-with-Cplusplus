@@ -1,17 +1,10 @@
-Name: Kushal Hebbar
+Project description: Generating a drawing using SDL 2.0 drawing primitives to draw a figure. These draw function primitives include:
+SDL RenderDrawLine, SDL RenderDrawPoint, and SDL RenderDrawRect. 
 
-Clemson Email Address: khebbar@g.clemson.edu
+This project consists of 2 classes: 
+- draw 
+- FrameGenerator
 
-Project no: #2
+The FrameGenerator class will write your figure to a file in a directory called frames. You must create the frames directory
+as a subdirectory of your project directory and you should supply your username in the main program. 
 
-Project due date: 8th February 2018
-
-Project description: Generating a drawing using SDL 2.0
-
-The easiest part of this project: 
- - Figuring out what to draw using SDL and imagining what geometric shapes are needed to get the required result.
-
-Problems that I had in completing this project:
- - Becoming comfortable with the coordinate system.
- - Drawing rectangles in any other angle apart from those perpendicular to the x and y axis.
- - Figuring out that the unnecessary usage of SDL_RenderPresent slows the rendering process of the objects.
