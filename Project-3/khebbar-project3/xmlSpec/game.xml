@@ -1,0 +1,131 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<title>khebbar-A day on the beach!</title>
+<maxStringSize>50</maxStringSize>
+
+<frameCapOn>true</frameCapOn>
+<period>17</period>
+
+<maxFrames>300</maxFrames>
+<username>khebbar</username>
+
+<view>
+  <width>854</width>
+  <height>600</height>
+</view>
+
+<world>
+  <width>2000</width>
+  <height>600</height>
+</world>
+
+<mountain>
+  <file>assets/mountain.png</file>
+  <factor>3</factor>
+  <transparency>true</transparency>
+</mountain>
+
+<lake>
+  <file>assets/lake.png</file>
+  <factor>2</factor>
+  <transparency>true</transparency>
+</lake>
+
+<land>
+  <file>assets/land.png</file>
+  <factor>1</factor>
+  <transparency>true</transparency>
+</land>
+  
+<pokeball>
+  <file>assets/pokeball.png</file>
+  <startLoc x="227" y="240"/>
+  <speedX>300</speedX>
+  <speedY>300</speedY>
+  <transparency>false</transparency>
+</pokeball>
+
+<dora>
+  <file>assets/doraright.png</file>
+  <startLoc x="50" y="450"/>
+  <frames>6</frames>
+  <imageWidth>75.66</imageWidth>
+  <imageHeight>104</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>250</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</dora>
+
+<doraLeft>
+  <file>assets/doraleft.png</file>
+  <startLoc x="50" y="450"/>
+  <frames>6</frames>
+  <imageWidth>75.66</imageWidth>
+  <imageHeight>104</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>250</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</doraLeft>
+
+<bird>
+  <file>assets/birdright.png</file>
+  <startLoc x="50" y="80"/>
+  <frames>1</frames>
+  <imageWidth>80</imageWidth>
+  <imageHeight>50</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</bird>
+
+<birdLeft>
+  <file>assets/birdleft.png</file>
+  <startLoc x="50" y="80"/>
+  <frames>1</frames>
+  <imageWidth>80</imageWidth>
+  <imageHeight>50</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</birdLeft>
+
+<boat>
+  <file>assets/boatright.png</file>
+  <startLoc x="50" y="370"/>
+  <frames>1</frames>
+  <imageWidth>160</imageWidth>
+  <imageHeight>120</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>150</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</boat>
+
+<boatLeft>
+  <file>assets/boatleft.png</file>
+  <startLoc x="50" y="370"/>
+  <frames>1</frames>
+  <imageWidth>160</imageWidth>
+  <imageHeight>120</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>150</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</boatLeft>
+
+<font name="font">
+  <file>fonts/arial.ttf</file>
+  <size>24</size>
+  <red>0</red>
+  <green>0</green>
+  <blue>0</blue>
+  <alpha>0</alpha>
+</font>
+
+</GameData>

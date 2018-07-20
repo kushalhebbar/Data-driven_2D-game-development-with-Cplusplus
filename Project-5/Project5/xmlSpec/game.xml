@@ -1,0 +1,290 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<title>khebbar - High flying Dumbo!</title>
+<maxStringSize>50</maxStringSize>
+
+<frameCapOn>true</frameCapOn>
+<period>17</period>
+
+<maxFrames>1200</maxFrames>
+<username>khebbar</username>
+
+<view>
+  <width>854</width>
+  <height>600</height>
+</view>
+
+<world>
+  <width>2000</width>
+  <height>600</height>
+</world>
+
+<mountain>
+  <file>assets/mountain.png</file>
+  <factor>3</factor>
+  <transparency>true</transparency>
+</mountain>
+
+<lake>
+  <file>assets/lake.png</file>
+  <factor>2</factor>
+  <transparency>true</transparency>
+</lake>
+
+<land>
+  <file>assets/land.png</file>
+  <factor>1</factor>
+  <transparency>true</transparency>
+</land>
+
+<tomato>
+  <file>assets/tomato.png</file>
+  <interval>300</interval>
+  <distance>420</distance>
+  <startLoc x="1750" y="540"/>
+  <speedX>450</speedX>
+  <speedY>450</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+  <chunk>
+    <size>9</size>
+    <distance>200</distance>
+  </chunk>
+</tomato>
+
+<piranha>
+  <file>assets/piranhaRight.png</file>
+  <startLoc x="50" y="380"/>
+  <frames>6</frames>
+  <imageWidth>49.2</imageWidth>
+  <imageHeight>78</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</piranha>
+
+<piranhaLeft>
+  <file>assets/piranhaLeft.png</file>
+  <startLoc x="50" y="380"/>
+  <frames>6</frames>
+  <imageWidth>49.2</imageWidth>
+  <imageHeight>78</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</piranhaLeft>
+
+<stork>
+  <file>assets/storkRight.png</file>
+  <startLoc x="50" y="50"/>
+  <frames>4</frames>
+  <imageWidth>199</imageWidth>
+  <imageHeight>146</imageHeight>
+  <frameInterval>100</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+  <chunk>
+    <size>25</size>
+    <distance>200</distance>
+  </chunk>
+</stork>
+
+<storkLeft>
+  <file>assets/storkLeft.png</file>
+  <startLoc x="50" y="50"/>
+  <frames>4</frames>
+  <imageWidth>199</imageWidth>
+  <imageHeight>146</imageHeight>
+  <frameInterval>100</frameInterval>
+  <speedX>300</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+  <chunk>
+    <size>25</size>
+    <distance>200</distance>
+  </chunk>
+</storkLeft>
+
+<boat>
+  <file>assets/boatright.png</file>
+  <startLoc x="50" y="430"/>
+  <frames>1</frames>
+  <imageWidth>160</imageWidth>
+  <imageHeight>120</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>130</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</boat>
+
+<boatLeft>
+  <file>assets/boatleft.png</file>
+  <startLoc x="50" y="430"/>
+  <frames>1</frames>
+  <imageWidth>160</imageWidth>
+  <imageHeight>120</imageHeight>
+  <frameInterval>90</frameInterval>
+  <speedX>130</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</boatLeft>
+
+<gems>
+  <file>assets/gems.png</file>
+  <startLoc x="250" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+  <chunk>
+    <size>9</size>
+    <distance>200</distance>
+  </chunk>
+</gems>
+
+<apple1>
+  <file>assets/apple1.png</file>
+  <startLoc x="250" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</apple1>
+
+<apple2>
+  <file>assets/apple2.png</file>
+  <startLoc x="500" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</apple2>
+
+<berry>
+  <file>assets/berry.png</file>
+  <startLoc x="750" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</berry>
+
+<cherry>
+  <file>assets/cherry.png</file>
+  <startLoc x="1000" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</cherry>
+
+<melon>
+  <file>assets/melon.png</file>
+  <startLoc x="1250" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</melon>
+
+<pear>
+  <file>assets/pear.png</file>
+  <startLoc x="1500" y="540"/>
+  <speedX>150</speedX>
+  <speedY>150</speedY>
+  <transparency>false</transparency>
+  <safeDistance>150</safeDistance>
+</pear>
+
+<dumbo>
+  <file>assets/dumboRight.png</file>
+  <bullet>tomato</bullet>
+  <startLoc x="50" y="200"/>
+  <frames>4</frames>
+  <imageWidth>190</imageWidth>
+  <imageHeight>137.5</imageHeight>
+  <frameInterval>120</frameInterval>
+  <speedX>250</speedX>
+  <speedY>250</speedY>
+  <transparency>true</transparency>
+  <chunk>
+    <size>30</size>
+    <distance>160</distance>
+  </chunk>
+</dumbo>
+
+<dumboLeft>
+  <file>assets/dumboLeft.png</file>
+  <bullet>tomato</bullet>
+  <startLoc x="50" y="200"/>
+  <frames>4</frames>
+  <imageWidth>190</imageWidth>
+  <imageHeight>137.5</imageHeight>
+  <frameInterval>120</frameInterval>
+  <speedX>250</speedX>
+  <speedY>250</speedY>
+  <transparency>true</transparency>
+  <chunk>
+    <size>30</size>
+    <distance>160</distance>
+  </chunk>
+</dumboLeft>
+
+<hud>
+  <Pool>
+    <posX>680</posX>
+    <posY>20</posY>
+    <width>165</width>
+    <height>80</height>
+  </Pool>
+  <posX>20</posX>
+  <posY>20</posY>
+  <width>280</width>
+  <height>290</height>
+  <hudColor>
+    <red>0</red>
+    <green>0</green>
+    <blue>0</blue>
+    <alpha>255</alpha>
+  </hudColor>
+  <border>
+    <thickness>1</thickness>
+    <Color>
+      <red>255</red>
+      <green>0</green>
+      <blue>0</blue>
+      <alpha>255</alpha>
+    </Color>
+  </border>
+  <textColor>
+    <red>0</red>
+    <green>0</green>
+    <blue>255</blue>
+    <alpha>0</alpha>
+  </textColor>
+  <text>Player Controls</text>
+  <up> w -> UP</up>
+  <left> a -> LEFT</left>
+  <down> s -> DOWN</down>
+  <right> d -> RIGHT</right>
+  <pause> p -> PAUSE </pause>
+  <space> space -> shoot </space>
+  <collision> m -> collision strategy</collision>
+  <hudshow> F1 -> Display Hud</hudshow>
+</hud>
+
+<font name="font">
+  <file>fonts/arial.ttf</file>
+  <size>24</size>
+  <red>0</red>
+  <green>0</green>
+  <blue>0</blue>
+  <alpha>0</alpha>
+</font>
+
+</GameData>

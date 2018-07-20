@@ -1,0 +1,17 @@
+Name: Kushal Hebbar
+
+Clemson Email Address: khebbar@g.clemson.edu
+
+Project no: #2
+
+Project due date: 8th February 2018
+
+Project description: Generating a drawing using SDL 2.0
+
+The easiest part of this project: 
+ - Figuring out what to draw using SDL and imagining what geometric shapes are needed to get the required result.
+
+Problems that I had in completing this project:
+ - Becoming comfortable with the coordinate system.
+ - Drawing rectangles in any other angle apart from those perpendicular to the x and y axis.
+ - Figuring out that the unnecessary usage of SDL_RenderPresent slows the rendering process of the objects.

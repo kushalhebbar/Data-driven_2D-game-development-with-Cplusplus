@@ -1,0 +1,35 @@
+Name: Kushal Hebbar
+
+Course: CPSC 6160
+
+Clemson Email Address: khebbar@g.clemson.edu
+
+Project no: #4
+
+Project due date: April 6th 2018
+
+Project description: Adding a Player Object
+
+The easiest part of this project:
+- Creating the HUD was fairly simple
+
+Problems that I had in completing this project:
+- Figuring out how to make the player a twowaySprite
+- Thinking about the direction and purpose of the game and also future improvements
+- Finding the required sprites to go with the theme of the game - Ended up creating my own spritesheets using animations (GIFs)
+
+Possible Final Project:
+The game is designed to attract young children. The theme of the game is Dumbo, a flying elephant which is a popular movie. The player is Dumbo which can be controlled by using wasd and flies around in order to collect various types of fruits while avoiding obstacles such as Mr. Stork and Piranhas. Further improvements will involve collecting higher powered gems and maybe Bananas shot out of the trunk of the elephant. The game will conclude when all resources have been collected and dumbo will be given a certain amount of health represented using a HP bar.
+
+References:
+1. Moutain.png - https://blog.oxforddictionaries.com/2015/12/11/mountain-names/
+2. Sunset.png - https://www.shutterstock.com/video/clip-7026058-stock-footage-real-time-sunset-over-mediterranean-ocean-and-turkish-mountains-part-of-evening-sun.html?src=rel/962620:4
+3. Lake.png - https://sulins.org/blue_sky_scenery_sea_wallpaper/
+4. Land.png - http://brett.newdream.net/journal/images/010604/1152x768-land.jpg
+5. Boat: Result of rendering from Project #2
+6. Dumbo: https://giphy.com/gifs/disney-elephant-baby-animals-dumbo-B5BP3OYgVN5ss
+7. Apple1: http://www.clker.com/clipart-26937.html
+8. Apple2: http://www.clker.com/clipart-green-apple-16.html
+9. Berry, Cherry, Pear: https://pngtree.com/so/strawberry-png
+10. Piranha: http://spritedatabase.net/files/gba/1111/Sprite/Rayman3_Piranha.png
+11. Stork: https://giphy.com/gifs/black-and-white-vintage-AAn1TeM1E9WVO

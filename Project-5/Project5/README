@@ -1,0 +1,51 @@
+Name: Kushal Hebbar
+
+Course: CPSC 6160
+
+Clemson Email Address: khebbar@g.clemson.edu
+
+Project no: #5
+
+Project due date: April 20th 2018
+
+Project description: Object Pooling, Explosions, and Projectiles
+
+The easiest part of this project:
+- Chunking was fairly simple as it was clearly explained in class
+- Creating the HUD for the object pooling
+
+Problems that I had in completing this project:
+- Creating a game which has 2 levels (collection of fruits and then the gems) was not simple
+- Chunking when the player is not moving happens to not be in random direction, however works perfectly when 2 moving sprites collide with each other
+- Finding appropriate sprites to fit the theme of the game
+- Projectiles and object pooling was considerably time consuming but the videos made it easier
+- Recording a video was a struggle as there were a lot of components that I wanted to showcase and doing that within 20 seconds was a true struggle and a test of patience.
+
+Final Project:
+-> First level: Dumbo needs to collect all the fruits on the screen without coming in contact with the piranhas or Mr.Stork.
+He can fire rotten tomatos at Mr.Stork temporarily disabling him from the screen allowing enought time to evade.
+-> Second level: Dumbo will then get a gem rush which generates gems to be collected. Game ends upon collection of these gems.
+
+Future improvements:
+- Either give Dumbo 3 lives or add a HP bar
+- Reduce size of Mr.Stork for level 1 and increase the size for level 2 to increase difficulty
+- Menu
+- Lights shining on the sun
+- Restart option
+- Better representation of Gameover
+- Sound
+- God mode
+
+References:
+1. Moutain.png - https://blog.oxforddictionaries.com/2015/12/11/mountain-names/
+2. Sunset.png - https://www.shutterstock.com/video/clip-7026058-stock-footage-real-time-sunset-over-mediterranean-ocean-and-turkish-mountains-part-of-evening-sun.html?src=rel/962620:4
+3. Lake.png - https://sulins.org/blue_sky_scenery_sea_wallpaper/
+4. Land.png - http://brett.newdream.net/journal/images/010604/1152x768-land.jpg
+5. Boat: Result of rendering from Project #2
+6. Dumbo: https://giphy.com/gifs/disney-elephant-baby-animals-dumbo-B5BP3OYgVN5ss
+7. Apple1: http://www.clker.com/clipart-26937.html
+8. Apple2: http://www.clker.com/clipart-green-apple-16.html
+9. Berry, Cherry, Pear: https://pngtree.com/so/strawberry-png
+10. Piranha: http://spritedatabase.net/files/gba/1111/Sprite/Rayman3_Piranha.png
+11. Stork: https://giphy.com/gifs/black-and-white-vintage-AAn1TeM1E9WVO
+12. Rotten tomato: Google images (Search result for: Animated rotten tomato PNG)
