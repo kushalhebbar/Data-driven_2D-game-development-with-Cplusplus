@@ -1,25 +1,10 @@
-Name: Kushal Hebbar
+Project 3 is an addition of important features towards the completion of the game such as constructing a player object and HUD, inclusion of Artificial Intelligence, and collision detection.
 
-Course: CPSC 6160
+1. A player object is constructed (here, dumbo the elephant). Keys asdw are to be used to control the player.
 
-Clemson Email Address: khebbar@g.clemson.edu
+2. Collision detection and AI. Some of the sprites in the game are smart and react to the player when the player gets close. The observer design pattern is used to enable the player to notify NPCs of its position.
 
-Project no: #4
-
-Project due date: April 6th 2018
-
-Project description: Adding a Player Object
-
-The easiest part of this project:
-- Creating the HUD was fairly simple
-
-Problems that I had in completing this project:
-- Figuring out how to make the player a twowaySprite
-- Thinking about the direction and purpose of the game and also future improvements
-- Finding the required sprites to go with the theme of the game - Ended up creating my own spritesheets using animations (GIFs)
-
-Possible Final Project:
-The game is designed to attract young children. The theme of the game is Dumbo, a flying elephant which is a popular movie. The player is Dumbo which can be controlled by using wasd and flies around in order to collect various types of fruits while avoiding obstacles such as Mr. Stork and Piranhas. Further improvements will involve collecting higher powered gems and maybe Bananas shot out of the trunk of the elephant. The game will conclude when all resources have been collected and dumbo will be given a certain amount of health represented using a HP bar.
+3. A HUD is designed. The player can toggle the HUD with F1 key.
 
 References:
 1. Moutain.png - https://blog.oxforddictionaries.com/2015/12/11/mountain-names/
@@ -33,3 +18,5 @@ References:
 9. Berry, Cherry, Pear: https://pngtree.com/so/strawberry-png
 10. Piranha: http://spritedatabase.net/files/gba/1111/Sprite/Rayman3_Piranha.png
 11. Stork: https://giphy.com/gifs/black-and-white-vintage-AAn1TeM1E9WVO
+
+Google drive link of the result of Project 3: https://drive.google.com/open?id=1xtY5KMWtq3Gh4FXhwojgFMdwf1zv0CjA
