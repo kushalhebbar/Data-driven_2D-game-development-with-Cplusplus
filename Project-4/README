@@ -3,15 +3,14 @@ Project 4 mainly focuses on projectiles, explosions and object pooling in C++.
 The entire game is data driven: all game constants are read from an XML file.
 
 I have incorporated an object pool for the bullets (tomato). Also, constructed a seperate HUD to show that the object pool is working.
-show that the pool is working.
+
 This project also shows an improvement in controlling the player along with an animation that creates an illusion of depth.
 
 The projectiles included in this project are tomatos shot out of the trunk of dumbo (player).
 
 Another improvment is the player explosion on collision with various components within the game.
 
-Player explodes and, re-appears after explosion.
-Made use of chunking of sprites giving an effect of explosion of sprites
+Player explodes and re-appears after explosion. Made use of chunking of sprites giving an effect of explosion of sprites
 
 Final game idea:
 -> First level: Dumbo collects all the fruits on the screen without coming in contact with the piranhas or Mr.Stork.
