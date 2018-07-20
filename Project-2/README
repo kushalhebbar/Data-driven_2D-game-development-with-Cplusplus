@@ -1,27 +1,20 @@
-Name: Kushal Hebbar
+Project 2 consists of building over project 1 and further improvements in terms of improving code structure, using inheritence and polymorphism along with other minor changes listed below:
 
-Course: CPSC 6160
+1. Conversion of while loops into ranged for loops, for example:
+• ParseXML::display(),
+• Gamedata::displayData()
 
-Clemson Email Address: khebbar@clemson.edu
+2. Conversion of the first 3 ranged for loops in the ImageFactory destructor to while loops without using auto.
 
-Project no: #3
+3. Conversion of ImageFactory from a GoF singleton into a Meyers singleton.
 
-Project due date: March 2nd 2018
+4. Using IoMod and C ++ stringstreams to write the fps of my game on the screen
 
-Project description: Polymorphism in action
+5. Added generality to IoMod by permitting the user to write text in a different color font. This is done by overloading IoMod::writeText to accept an additional parameter, the new font color, and use this font to write the text.
 
-What sprite did I repeat at least 7 times?
-- I repeated the Bird sprite 7 times.
+6. Incorporate parallax scrolling into the animation by using at least two backgrounds. 
 
-What sprite (not Sprite or MultiSprite) did I design?
-- twowaysprite.cpp and twowaysprite.h
-
-The easiest part of this project: Task 1,2,4,5,7,10,11 were easy. Task 3 was easy after watching the video. 
-
-Problems that I had in completing this project: 
-- Finding the right backgrounds for the parallax scrolling.
-- Learning Photoshop in order to blend two different backgrounds into one to make an attractive background.
-- Finding relevant Sprites that have a frame by frame sprite sheet, removing the background and making them transparent. 
+7. Using delete to “explicitly disallow compiler generated functions” in Engine, and ImageFactory.
 
 References:
 1. Pokeball.png - http://www.pngmart.com/image/9561
@@ -32,5 +25,7 @@ References:
 6. Lake.png - https://sulins.org/blue_sky_scenery_sea_wallpaper/
 7. Land.png - http://brett.newdream.net/journal/images/010604/1152x768-land.jpg
 8. Boat.png - Result of my Project #2. Removed background and flipped it.
+
+Google drive link for the video of the result of Project 2: https://drive.google.com/open?id=1P2BwV_wLKt_-Op9rN9OihPoBIPoPTn3b
 
 
