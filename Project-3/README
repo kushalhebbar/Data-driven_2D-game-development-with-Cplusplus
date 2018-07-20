@@ -4,7 +4,7 @@ Project 3 is an addition of important features towards the completion of the gam
 
 2. Collision detection and AI. Some of the sprites in the game are smart and react to the player when the player gets close. The observer design pattern is used to enable the player to notify NPCs of its position.
 
-3. A HUD is designed. The player can toggle the HUD with F1 key.
+3. A HUD is designed which controls information about gameplay. The player can toggle the HUD with F1 key.
 
 References:
 1. Moutain.png - https://blog.oxforddictionaries.com/2015/12/11/mountain-names/
